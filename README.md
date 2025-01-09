@@ -14,7 +14,6 @@
 [He Zhang](https://sites.google.com/site/hezhangsprinter), 
 [Zhe Lin](https://sites.google.com/site/zhelin625/home), 
 [Yingcong Chen†](https://www.yingcong.me)
-[Kaushal Shirode]
 HKUST(GZ), HKUST, Adobe Research.
 
 \* Intership Project.
